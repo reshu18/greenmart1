@@ -1,0 +1,6 @@
+{
+  "appId": "com.greenmart.app",
+  "appName": "greenmart",
+  "webDir": "www.greenmart.com",
+  "bundledWebRuntime": false
+}
